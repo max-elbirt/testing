@@ -1,0 +1,1 @@
+let galdo = 0;
